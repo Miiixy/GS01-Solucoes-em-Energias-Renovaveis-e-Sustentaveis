@@ -9,7 +9,6 @@ Global Solution FIAP
 * Lara Dos Santos Cândido Alves - RM: 573827
 * Giulliana Maistro Brasolin - RM: 569381
 
----
 
 ## Sobre o Projeto
 
@@ -18,8 +17,6 @@ A exploração espacial depende de sistemas capazes de monitorar continuamente a
 Pensando nesse cenário, desenvolvemos um sistema inteligente de monitoramento espacial capaz de simular e analisar dados operacionais em tempo real. A solução recebe informações dos módulos da missão, identifica situações de risco, gera alertas automáticos e executa ações corretivas quando necessário.
 
 Além dos requisitos básicos propostos no desafio, o projeto também incorpora mecanismos de análise de risco e previsão de falhas, tornando o monitoramento mais inteligente e preventivo.
-
----
 
 ## Objetivo
 
@@ -33,7 +30,6 @@ Desenvolver uma plataforma computacional capaz de:
 * Exibir as informações de forma organizada;
 * Auxiliar na identificação preventiva de possíveis falhas.
 
----
 
 ## Funcionamento do Sistema
 
@@ -51,7 +47,6 @@ Após a análise, o sistema:
 6. Executa ações automáticas quando necessário;
 7. Apresenta um resumo geral da missão.
 
----
 
 ## Módulos Monitorados
 
@@ -71,7 +66,6 @@ Cada módulo possui os seguintes parâmetros monitorados:
 | Comunicação | Qualidade do sinal de comunicação |
 | Status      | Estado operacional do módulo      |
 
----
 
 ## Classificação dos Dados
 
@@ -89,7 +83,6 @@ Indica uma situação que exige monitoramento mais próximo.
 
 Indica uma condição de risco que pode comprometer a operação da missão.
 
----
 
 ## Sistema de Alertas
 
@@ -102,7 +95,6 @@ Exemplos:
 * Comunicação instável;
 * Módulo em falha.
 
----
 
 ## Tomada de Decisão Automática
 
@@ -115,7 +107,6 @@ Entre as ações implementadas estão:
 * Acionamento do sistema de resfriamento;
 * Reinicialização do sistema de comunicação.
 
----
 
 ## Inovações Implementadas
 
@@ -131,7 +122,6 @@ Exemplo:
 Índice de Risco: 80%
 ```
 
----
 
 ### Previsão de Falhas
 
@@ -146,7 +136,6 @@ As previsões possíveis são:
 
 Dessa forma, a solução não apenas reage aos problemas existentes, mas também auxilia na identificação antecipada de possíveis falhas futuras.
 
----
 
 ## Tecnologias Utilizadas
 
@@ -154,7 +143,6 @@ Dessa forma, a solução não apenas reage aos problemas existentes, mas também
 * Biblioteca Random
 * Biblioteca Time
 
----
 
 ## Estrutura do Projeto
 
@@ -165,7 +153,6 @@ projeto/
 └── README.md
 ```
 
----
 
 ## Como Executar
 
@@ -209,4 +196,3 @@ Acoes Automaticas:
 -> acionar sistema de resfriamento
 ```
 
----
