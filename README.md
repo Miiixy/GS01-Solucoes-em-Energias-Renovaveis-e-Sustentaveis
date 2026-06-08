@@ -154,26 +154,6 @@ projeto/
 ```
 
 
-## Como Executar
-
-### 1. Clonar o repositório
-
-```bash
-git clone (https://github.com/Miiixy/GS01-Solucoes-em-Energias-Renovaveis-e-Sustentaveis.git)
-```
-
-### 2. Acessar a pasta do projeto
-
-```bash
-cd projeto
-```
-
-### 3. Executar o sistema
-
-```bash
-python sers.py
-```
-
 ---
 
 ## Exemplo de Saída
