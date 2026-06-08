@@ -149,7 +149,7 @@ Dessa forma, a solução não apenas reage aos problemas existentes, mas também
 ```text
 projeto/
 │
-├── main.py    
+├── sers.py
 └── README.md
 ```
 
@@ -159,7 +159,7 @@ projeto/
 ### 1. Clonar o repositório
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone (https://github.com/Miiixy/GS01-Solucoes-em-Energias-Renovaveis-e-Sustentaveis.git)
 ```
 
 ### 2. Acessar a pasta do projeto
@@ -171,7 +171,7 @@ cd projeto
 ### 3. Executar o sistema
 
 ```bash
-python main.py
+python sers.py
 ```
 
 ---
