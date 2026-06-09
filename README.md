@@ -143,19 +143,6 @@ Dessa forma, a solução não apenas reage aos problemas existentes, mas também
 * Biblioteca Random
 * Biblioteca Time
 
-
-## Estrutura do Projeto
-
-```text
-projeto/
-│
-├── sers.py
-└── README.md
-```
-
-
----
-
 ## Exemplo de Saída
 
 ```text
